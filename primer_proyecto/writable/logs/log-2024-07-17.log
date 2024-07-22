@@ -1,0 +1,72 @@
+CRITICAL - 2024-07-17 00:31:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Back/usuario/login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Back/usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Back/usuario/login', [], true)
+ 3 APPPATH\Controllers\Home.php(44): view('Back/usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->login()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-17 00:31:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Back/usuario/registro.php"
+[Method: GET, Route: registrarse]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Back/usuario/registro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Back/usuario/registro', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('Back/usuario/registro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-17 00:33:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Back/usuario/registro.php"
+[Method: GET, Route: registrarse]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Back/usuario/registro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Back/usuario/registro', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('Back/usuario/registro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-17 00:33:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Back/usuario/registro.php"
+[Method: GET, Route: registrarse]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Back/usuario/registro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Back/usuario/registro', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('Back/usuario/registro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-17 00:36:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Back\usuario\registro.php"
+[Method: GET, Route: registrarse]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Back\\usuario\\registro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Back\\usuario\\registro', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('Back\\usuario\\registro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-17 00:53:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/registro.php"
+[Method: GET, Route: registrarse]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/registro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/registro', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('usuario/registro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
